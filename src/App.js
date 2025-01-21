@@ -121,6 +121,12 @@ const Services = () => (
           description="We provide end-to-end project management, ensuring timely delivery, budget control, and effective communication."
           imageSrc="https://backtobasics.edu.au/images/04-news/Construction-PM.jpg"
         />
+        <ServiceCard
+          icon={ClipboardCheck}
+          title="Geo Mapping"
+          description="Geo-information allows institutions to plan and manage resources effectively."
+          imageSrc="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rwanda_sat.png"
+        />
       </div>
     </div>
   </section>

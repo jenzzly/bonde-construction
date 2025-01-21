@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Menu, X, Phone, Mail, MapPin, ChevronRight, Building2, Building, Factory, Wrench, ClipboardCheck } from 'lucide-react';
-import logo from './bonde.png';
 
 const Navigation = ({ isOpen, setIsOpen }) => (
   <nav className="bg-blue-900 text-white fixed w-full z-50">
@@ -219,7 +218,7 @@ const Contact = () => (
           </div>
           <div className="mt-8">
             <img
-              src={logo}
+              src="/images/bonde.png"
               alt="Office location"
               className="rounded-lg shadow-lg"
             />

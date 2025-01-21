@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bonde-construction/static/css/main.b50896ca.css",
-    "main.js": "/bonde-construction/static/js/main.2b9e44a1.js",
+    "main.js": "/bonde-construction/static/js/main.bd0e73c9.js",
     "static/js/453.3fd8c623.chunk.js": "/bonde-construction/static/js/453.3fd8c623.chunk.js",
     "index.html": "/bonde-construction/index.html",
     "main.b50896ca.css.map": "/bonde-construction/static/css/main.b50896ca.css.map",
-    "main.2b9e44a1.js.map": "/bonde-construction/static/js/main.2b9e44a1.js.map",
+    "main.bd0e73c9.js.map": "/bonde-construction/static/js/main.bd0e73c9.js.map",
     "453.3fd8c623.chunk.js.map": "/bonde-construction/static/js/453.3fd8c623.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b50896ca.css",
-    "static/js/main.2b9e44a1.js"
+    "static/js/main.bd0e73c9.js"
   ]
 }

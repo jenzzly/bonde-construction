@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bonde-construction/static/css/main.b8e8d7f2.css",
+    "main.js": "/bonde-construction/static/js/main.873b247f.js",
+    "static/js/453.3fd8c623.chunk.js": "/bonde-construction/static/js/453.3fd8c623.chunk.js",
+    "static/media/logo.svg": "/bonde-construction/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bonde-construction/index.html",
+    "main.b8e8d7f2.css.map": "/bonde-construction/static/css/main.b8e8d7f2.css.map",
+    "main.873b247f.js.map": "/bonde-construction/static/js/main.873b247f.js.map",
+    "453.3fd8c623.chunk.js.map": "/bonde-construction/static/js/453.3fd8c623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e8d7f2.css",
+    "static/js/main.873b247f.js"
+  ]
+}

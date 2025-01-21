@@ -95,31 +95,31 @@ const Services = () => (
           icon={Building2}
           title="Residential Construction"
           description="We build high-quality, sustainable homes designed for modern living, focusing on energy efficiency and lasting value."
-          imageSrc="/api/placeholder/600/400"
+          imageSrc="https://www.procompare.co.za/media/image-gallery/za/cache/house-south-africa_966.webp"
         />
         <ServiceCard
           icon={Building}
           title="Commercial Construction"
           description="We deliver functional, aesthetically appealing commercial spaces, including offices and retail developments, on time and within budget."
-          imageSrc="/api/placeholder/600/400"
+          imageSrc="https://evco.co.in/wp-content/uploads/2023/04/The-Basics-of-Light-Commercial-Construction-1536x864.jpg"
         />
         <ServiceCard
           icon={Factory}
           title="Industrial Facilities"
           description="We specialize in constructing industrial facilities, such as factories and warehouses, tailored to meet operational needs."
-          imageSrc="/api/placeholder/600/400"
+          imageSrc="https://vsl.com/wp-content/uploads/2020/10/Industrial_facilities.png"
         />
         <ServiceCard
           icon={Wrench}
           title="Site Preparation"
           description="Our site preparation services include land clearing, excavation, grading, and soil analysis for stable foundations."
-          imageSrc="/api/placeholder/600/400"
+          imageSrc="https://images.squarespace-cdn.com/content/v1/585f14bf1b631b9683afdfd5/f5099633-f42c-43d9-b07e-0a3f877be423/site+preparation.jpg?format=2500w"
         />
         <ServiceCard
           icon={ClipboardCheck}
           title="Project Management"
           description="We provide end-to-end project management, ensuring timely delivery, budget control, and effective communication."
-          imageSrc="/api/placeholder/600/400"
+          imageSrc="https://backtobasics.edu.au/images/04-news/Construction-PM.jpg"
         />
       </div>
     </div>
@@ -162,7 +162,7 @@ const Projects = () => (
             "Energy-efficient design",
             "Advanced healthcare technology"
           ]}
-          imageSrc="/api/placeholder/800/600"
+          imageSrc="https://ulk.ac.rw/wp-content/uploads/2024/11/HOSTEL-PICTURE-820x400.jpg"
         />
         <ProjectCard
           title="Glory Academy"
@@ -173,7 +173,7 @@ const Projects = () => (
             "Laboratories",
             "Eco-friendly construction"
           ]}
-          imageSrc="/api/placeholder/800/600"
+          imageSrc="https://gloryacademy.ac.rw/wp-content/uploads/2023/01/unnamed-3-e1675118733623.jpg"
         />
         <ProjectCard
           title="Eden Rock Apartment Hotel"
@@ -184,7 +184,7 @@ const Projects = () => (
             "Fitness center",
             "Rooftop lounge"
           ]}
-          imageSrc="/api/placeholder/800/600"
+          imageSrc="https://edenrocapartmenthotel.com/wp-content/uploads/2023/11/Eden-Roc-Apartment-hotel-29.jpg"
         />
       </div>
     </div>

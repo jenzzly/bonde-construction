@@ -44,7 +44,7 @@ const Hero = () => (
   <div className="relative pt-16">
     <div className="bg-blue-900 text-white py-32">
       <img
-        src="/api/placeholder/1920/1080"
+        src="https://visitrwanda.com/wp-content/uploads/fly-images/3103/Visit-Rwanda-Vision-City-1920x1280.jpg"
         alt="Construction site"
         className="absolute inset-0 w-full h-full object-cover mix-blend-overlay opacity-20"
       />

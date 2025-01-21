@@ -218,7 +218,7 @@ const Contact = () => (
           </div>
           <div className="mt-8">
             <img
-              src="/api/placeholder/600/300"
+              src="https://i0.wp.com/ivend.com/wp-content/uploads/2023/02/build-africa-logo.png"
               alt="Office location"
               className="rounded-lg shadow-lg"
             />

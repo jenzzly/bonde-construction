@@ -23,6 +23,8 @@ const ProjectCard = ({ title, description, features, imageSrc }) => (
   </div>
 );
 
+export default ProjectCard;
+
 const Projects = () => (
   <section id="projects" className="py-20">
     <div className="max-w-7xl mx-auto px-4">
@@ -65,3 +67,5 @@ const Projects = () => (
     </div>
   </section>
 );
+
+export default Projects;

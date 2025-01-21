@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, Phone, Mail, MapPin, ChevronRight, Building2, Building, Factory, Wrench, ClipboardCheck } from 'lucide-react';
+import logo from './bonde.png';
 
 const Navigation = ({ isOpen, setIsOpen }) => (
   <nav className="bg-blue-900 text-white fixed w-full z-50">
@@ -41,7 +42,7 @@ const Navigation = ({ isOpen, setIsOpen }) => (
 );
 
 const Hero = () => (
-  <div className="relative pt-16">
+  <div id="home" className="relative pt-16">
     <div className="bg-blue-900 text-white py-32">
       <img
         src="https://visitrwanda.com/wp-content/uploads/fly-images/3103/Visit-Rwanda-Vision-City-1920x1280.jpg"
@@ -218,7 +219,7 @@ const Contact = () => (
           </div>
           <div className="mt-8">
             <img
-              src="https://i0.wp.com/ivend.com/wp-content/uploads/2023/02/build-africa-logo.png"
+              src={logo}
               alt="Office location"
               className="rounded-lg shadow-lg"
             />

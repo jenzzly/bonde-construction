@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bonde-construction/static/css/main.b50896ca.css",
-    "main.js": "/bonde-construction/static/js/main.0418c813.js",
+    "main.css": "/bonde-construction/static/css/main.43b61a10.css",
+    "main.js": "/bonde-construction/static/js/main.b393caa9.js",
     "static/js/453.3fd8c623.chunk.js": "/bonde-construction/static/js/453.3fd8c623.chunk.js",
     "static/media/bonde.png": "/bonde-construction/static/media/bonde.3df3bc9686a894c5f552.png",
     "index.html": "/bonde-construction/index.html",
-    "main.b50896ca.css.map": "/bonde-construction/static/css/main.b50896ca.css.map",
-    "main.0418c813.js.map": "/bonde-construction/static/js/main.0418c813.js.map",
+    "main.43b61a10.css.map": "/bonde-construction/static/css/main.43b61a10.css.map",
+    "main.b393caa9.js.map": "/bonde-construction/static/js/main.b393caa9.js.map",
     "453.3fd8c623.chunk.js.map": "/bonde-construction/static/js/453.3fd8c623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b50896ca.css",
-    "static/js/main.0418c813.js"
+    "static/css/main.43b61a10.css",
+    "static/js/main.b393caa9.js"
   ]
 }

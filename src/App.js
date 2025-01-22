@@ -218,7 +218,7 @@ const Contact = () => (
           </div>
           <div className="mt-8">
             <img
-              src="/images/bonde.png"
+              src=""
               alt="Office location"
               className="rounded-lg shadow-lg"
             />
